@@ -16,9 +16,8 @@ image = Image.open('dna-logo.jpeg')
 st.image(image, use_column_width=True)
 
 st.write("""
-# DNA Nucleotide Count Web App
-
-This app counts the nucleotide composition of query DNA!
+- This app counts the nucleotide composition of query DNA!
+- App built in `Python` + `Streamlit` by Evgeniia Komarova [LinkedIn](https://www.linkedin.com/in/evgeniia-komarova-523139235/) [GitHub](https://github.com/aussiekom)
 
 ***
 """)
