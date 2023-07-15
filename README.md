@@ -1,1 +1,1 @@
-# DNA-nucleotide-count-app
+# DNA Nucleotide Count App
